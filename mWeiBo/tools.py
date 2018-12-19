@@ -1,0 +1,6 @@
+# cookies='SINAGLOBAL=4755601353474.194.1541510261825; ULV=1545115501654:15:7:2:3200853564029.704.1545115501631:1545095612684; SUHB=0cSnj9DYyv7N4B; UOR=,,club.huawei.com; SCF=AtEk8FBQy4HGGWry3yoR0Dpy7nnRkuXxdYPJ0-aRrcpxcczcTJ9D2dXrnBvURdk4tJCEfhlxciASOmZo6UPCw_Y.; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWUhrLSOmm3bM-0pZMKiyEK5JpX5oz75NHD95QfSo.Xe0BcSK.fWs4DqcjUi--fi-z7iKysi--fi-2Xi-zXi--4iK.EiKnRws7t; ALF=1547743534; un=15323768477; wvr=6; SUB=_2A25xHVR-DeRhGeNI4lYS9CjJwjmIHXVS_nw2rDV8PUJbkNAKLWPXkW1NSAIjQVkCp4eIU61TVp3acb2wGsH2KvGv; SSOLoginState=1545115499; _s_tentry=-; Apache=3200853564029.704.1545115501631'
+# cookie = {}
+# for line in cookies.split(';'):
+#     key, value = line.split('=', 1)
+#     cookie[key] = value
+# print(cookie)
